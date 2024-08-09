@@ -18,7 +18,7 @@ Software Engineer
 
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Kavinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavinesh248&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Kavinesh248?theme=dark&font=Marcellus)](https://leetcode.com/u/Kavinesh248/)
 
