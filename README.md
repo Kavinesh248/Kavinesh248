@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Kavinesh
 
 Software Engineer
-<img align="right" width="470" height="390" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">                                                
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">                                                
 - 🌱 I’m currently learning Front-End Web Development
 - 💬 Ask me about Tech
 - 📫 How to reach me :
